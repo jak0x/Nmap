@@ -3,6 +3,9 @@
 
 import shlex
 import subprocess
+import nmap
+
+
 
 #**************OPCIONES GENERALES********************************
 
