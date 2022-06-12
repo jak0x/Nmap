@@ -5,8 +5,6 @@ import shlex
 import subprocess
 import nmap
 
-
-
 #**************OPCIONES GENERALES********************************
 
 opcion0 = int(input("Elija una opcion:\n"+"1-Descubrimiento\n"+"2-Analisis de Puertos\n"+"3-Analisis de Servicios y S.O\n"+"4-Evasión\n"+"0-Salir\n\n"))
